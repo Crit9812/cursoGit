@@ -5,3 +5,5 @@
 Para ejecutar el sistema, debes poner:
 
 ```npm install reeact```
+
+sistema de registro 2
